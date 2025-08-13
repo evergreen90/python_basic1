@@ -2,17 +2,3 @@
 # Name: Bob, Age: 79
 # Name: Tom, Age: 59
 # Name: Ken, Age: 61
-
-users_info = [["Bob", 79],
-              ["Tom", 59],
-              ["Ken", 61]]
-
-for name,age in users_info:
-    print(f"Name: {name}, {age}")
-
-
-# 違うやり方
-a = users_info[0]
-b = a[0]
-for user in users_info:
-    print(f"Name:{user[0]}, Age:{user[1]}")
