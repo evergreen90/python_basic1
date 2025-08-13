@@ -1,5 +1,6 @@
 # 次のmembersというリストから "Bob" と "Tom" を取得して出力してください
 # 次のmembersというリストから "Bob" と "Tom" を取得して、それぞれ1件ずつ、"Bob" と "Tom"を出力してください
+#
 
 members = ["Bob", "Tom", "Ken"]
 
