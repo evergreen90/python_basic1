@@ -17,4 +17,4 @@ a = users_info[0]
 b = a[0]
 for user in users_info:
     print(f"Name:{user[0]}, Age:{user[1]}")
-    
+
